@@ -3,7 +3,7 @@
 I'm a student specializing in software engineering. I'm passionate about developing.
 
 ## 🛠 Skills
-- Programming Languages: JavaScript, Python, Java
+- Programming Languages: JavaScript, Python, Java, C++
 - Frameworks: Express
 
 ## 🔗 Connect with Me
