@@ -10,4 +10,4 @@ I'm a student specializing in software engineering. I'm passionate about develop
 - [Email](mailto:alimojarrad2003@gmail.com)
 - [Telegram](https://t.me/talktoal_bot)
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheTouya&show_icons=true&theme=radical)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thetouya&show_icons=true&theme=radical)
