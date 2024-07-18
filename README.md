@@ -11,4 +11,3 @@ I'm a student specializing in software engineering. I'm passionate about develop
 - [Telegram](https://t.me/talktoal_bot)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
