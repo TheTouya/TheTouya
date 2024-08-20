@@ -1,13 +1,13 @@
-# Hello, I'm Ali 👋
+# Hello everyone, Ali here.
 
-I'm a student specializing in software engineering. I'm passionate about developing.
+I'm a student specializing in software engineering. I'm passionate about developing, data sceince, making robots and calculators.
 
 ## 🛠 Skills
 - Programming Languages: JavaScript, Python, Java, C++
-- Frameworks: Express
+- Frameworks: Express, Django, pyTelegramBotAPI
 
 ## 🔗 Connect with Me
 - [Email](mailto:alimojarrad2003@gmail.com)
-- [Telegram](https://t.me/talktoal_bot)
+- [my bot](https://t.me/talktoal_bot)
 
 
