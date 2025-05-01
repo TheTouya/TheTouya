@@ -24,5 +24,5 @@ I'm a **junior software engineering student** from Iran, passionate about algori
 
 ## Connect with Me  
 - **GitHub:** [github.com/thetouya](https://github.com/thetouya)  
-- **Email:** alimojarrad2003@gmail.com
+- **Email:** ali.mojarrad03@gmail.com
 - **Telegram:** https://t.me/talktoal_bot
