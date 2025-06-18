@@ -14,6 +14,7 @@ I'm a **junior software engineering student** from Iran, passionate about algori
 - **Persian** 
 - **English** 
 - **Turkish** 
+- **Azerbaijani**
 - **German** 
 
 ### **Other Skills:**  
